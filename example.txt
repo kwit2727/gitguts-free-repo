@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-master
-=======
-refactoring
-
-master
-
-refactoring
->>>>>>> refactoring
